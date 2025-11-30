@@ -1,0 +1,1514 @@
+[
+    {
+        "time": "2025-01-01 00:00",
+        "hourly_kwh": 43.13,
+        "hourly_cost": 5.18,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 43.13,
+        "cumulative_cost": 5.18,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 01:00",
+        "hourly_kwh": 46.26,
+        "hourly_cost": 5.55,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 89.39,
+        "cumulative_cost": 10.73,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 02:00",
+        "hourly_kwh": 50.73,
+        "hourly_cost": 6.09,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 140.12,
+        "cumulative_cost": 16.81,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 03:00",
+        "hourly_kwh": 39.41,
+        "hourly_cost": 4.73,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 179.53,
+        "cumulative_cost": 21.54,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 04:00",
+        "hourly_kwh": 43.11,
+        "hourly_cost": 5.17,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 222.64,
+        "cumulative_cost": 26.72,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 05:00",
+        "hourly_kwh": 45.17,
+        "hourly_cost": 5.42,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 267.82,
+        "cumulative_cost": 32.14,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 06:00",
+        "hourly_kwh": 123.57,
+        "hourly_cost": 14.83,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 391.39,
+        "cumulative_cost": 46.97,
+        "cumulative_solar": 0.0
+    },
+    {
+        "time": "2025-01-01 07:00",
+        "hourly_kwh": 115.69,
+        "hourly_cost": 13.88,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 507.08,
+        "cumulative_cost": 60.85,
+        "cumulative_solar": 17.25
+    },
+    {
+        "time": "2025-01-01 08:00",
+        "hourly_kwh": 124.01,
+        "hourly_cost": 14.88,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 631.1,
+        "cumulative_cost": 75.73,
+        "cumulative_solar": 50.59
+    },
+    {
+        "time": "2025-01-01 09:00",
+        "hourly_kwh": 122.07,
+        "hourly_cost": 14.65,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 753.16,
+        "cumulative_cost": 90.38,
+        "cumulative_solar": 97.73
+    },
+    {
+        "time": "2025-01-01 10:00",
+        "hourly_kwh": 111.94,
+        "hourly_cost": 13.43,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 865.1,
+        "cumulative_cost": 103.81,
+        "cumulative_solar": 155.46
+    },
+    {
+        "time": "2025-01-01 11:00",
+        "hourly_kwh": 116.04,
+        "hourly_cost": 13.92,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 981.14,
+        "cumulative_cost": 117.74,
+        "cumulative_solar": 219.86
+    },
+    {
+        "time": "2025-01-01 12:00",
+        "hourly_kwh": 110.64,
+        "hourly_cost": 13.28,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 1091.77,
+        "cumulative_cost": 131.01,
+        "cumulative_solar": 286.53
+    },
+    {
+        "time": "2025-01-01 13:00",
+        "hourly_kwh": 113.14,
+        "hourly_cost": 13.58,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 1204.91,
+        "cumulative_cost": 144.59,
+        "cumulative_solar": 350.92
+    },
+    {
+        "time": "2025-01-01 14:00",
+        "hourly_kwh": 113.98,
+        "hourly_cost": 13.68,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 1318.89,
+        "cumulative_cost": 158.27,
+        "cumulative_solar": 408.66
+    },
+    {
+        "time": "2025-01-01 15:00",
+        "hourly_kwh": 116.89,
+        "hourly_cost": 14.03,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 1435.78,
+        "cumulative_cost": 172.29,
+        "cumulative_solar": 455.8
+    },
+    {
+        "time": "2025-01-01 16:00",
+        "hourly_kwh": 108.62,
+        "hourly_cost": 13.03,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 1544.41,
+        "cumulative_cost": 185.33,
+        "cumulative_solar": 489.13
+    },
+    {
+        "time": "2025-01-01 17:00",
+        "hourly_kwh": 110.91,
+        "hourly_cost": 13.31,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 1655.32,
+        "cumulative_cost": 198.64,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 18:00",
+        "hourly_kwh": 102.79,
+        "hourly_cost": 12.33,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 1758.1,
+        "cumulative_cost": 210.97,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 19:00",
+        "hourly_kwh": 114.24,
+        "hourly_cost": 13.71,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 1872.34,
+        "cumulative_cost": 224.68,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 20:00",
+        "hourly_kwh": 116.58,
+        "hourly_cost": 13.99,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 1988.92,
+        "cumulative_cost": 238.67,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 21:00",
+        "hourly_kwh": 102.47,
+        "hourly_cost": 12.3,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2091.4,
+        "cumulative_cost": 250.97,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 22:00",
+        "hourly_kwh": 109.15,
+        "hourly_cost": 13.1,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2200.55,
+        "cumulative_cost": 264.07,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-01 23:00",
+        "hourly_kwh": 44.26,
+        "hourly_cost": 5.31,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2244.81,
+        "cumulative_cost": 269.38,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 00:00",
+        "hourly_kwh": 45.46,
+        "hourly_cost": 5.46,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2290.27,
+        "cumulative_cost": 274.83,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 01:00",
+        "hourly_kwh": 43.15,
+        "hourly_cost": 5.18,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2333.42,
+        "cumulative_cost": 280.01,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 02:00",
+        "hourly_kwh": 40.23,
+        "hourly_cost": 4.83,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2373.65,
+        "cumulative_cost": 284.84,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 03:00",
+        "hourly_kwh": 40.96,
+        "hourly_cost": 4.92,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2414.61,
+        "cumulative_cost": 289.75,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 04:00",
+        "hourly_kwh": 49.82,
+        "hourly_cost": 5.98,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2464.43,
+        "cumulative_cost": 295.73,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 05:00",
+        "hourly_kwh": 46.04,
+        "hourly_cost": 5.52,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2510.47,
+        "cumulative_cost": 301.26,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 06:00",
+        "hourly_kwh": 116.45,
+        "hourly_cost": 13.97,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 2626.92,
+        "cumulative_cost": 315.23,
+        "cumulative_solar": 506.38
+    },
+    {
+        "time": "2025-01-02 07:00",
+        "hourly_kwh": 117.47,
+        "hourly_cost": 14.1,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 2744.39,
+        "cumulative_cost": 329.33,
+        "cumulative_solar": 523.64
+    },
+    {
+        "time": "2025-01-02 08:00",
+        "hourly_kwh": 111.9,
+        "hourly_cost": 13.43,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 2856.29,
+        "cumulative_cost": 342.76,
+        "cumulative_solar": 556.97
+    },
+    {
+        "time": "2025-01-02 09:00",
+        "hourly_kwh": 114.69,
+        "hourly_cost": 13.76,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 2970.98,
+        "cumulative_cost": 356.52,
+        "cumulative_solar": 604.11
+    },
+    {
+        "time": "2025-01-02 10:00",
+        "hourly_kwh": 114.95,
+        "hourly_cost": 13.79,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 3085.93,
+        "cumulative_cost": 370.31,
+        "cumulative_solar": 661.85
+    },
+    {
+        "time": "2025-01-02 11:00",
+        "hourly_kwh": 114.29,
+        "hourly_cost": 13.71,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 3200.22,
+        "cumulative_cost": 384.03,
+        "cumulative_solar": 726.24
+    },
+    {
+        "time": "2025-01-02 12:00",
+        "hourly_kwh": 111.57,
+        "hourly_cost": 13.39,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 3311.79,
+        "cumulative_cost": 397.41,
+        "cumulative_solar": 792.91
+    },
+    {
+        "time": "2025-01-02 13:00",
+        "hourly_kwh": 124.4,
+        "hourly_cost": 14.93,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 3436.19,
+        "cumulative_cost": 412.34,
+        "cumulative_solar": 857.3
+    },
+    {
+        "time": "2025-01-02 14:00",
+        "hourly_kwh": 117.17,
+        "hourly_cost": 14.06,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 3553.36,
+        "cumulative_cost": 426.4,
+        "cumulative_solar": 915.04
+    },
+    {
+        "time": "2025-01-02 15:00",
+        "hourly_kwh": 119.57,
+        "hourly_cost": 14.35,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 3672.93,
+        "cumulative_cost": 440.75,
+        "cumulative_solar": 962.18
+    },
+    {
+        "time": "2025-01-02 16:00",
+        "hourly_kwh": 112.41,
+        "hourly_cost": 13.49,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 3785.34,
+        "cumulative_cost": 454.24,
+        "cumulative_solar": 995.51
+    },
+    {
+        "time": "2025-01-02 17:00",
+        "hourly_kwh": 117.64,
+        "hourly_cost": 14.12,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 3902.99,
+        "cumulative_cost": 468.36,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 18:00",
+        "hourly_kwh": 112.79,
+        "hourly_cost": 13.53,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4015.77,
+        "cumulative_cost": 481.89,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 19:00",
+        "hourly_kwh": 110.18,
+        "hourly_cost": 13.22,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4125.95,
+        "cumulative_cost": 495.11,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 20:00",
+        "hourly_kwh": 114.3,
+        "hourly_cost": 13.72,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4240.26,
+        "cumulative_cost": 508.83,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 21:00",
+        "hourly_kwh": 119.1,
+        "hourly_cost": 14.29,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4359.35,
+        "cumulative_cost": 523.12,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 22:00",
+        "hourly_kwh": 116.01,
+        "hourly_cost": 13.92,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4475.37,
+        "cumulative_cost": 537.04,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-02 23:00",
+        "hourly_kwh": 43.74,
+        "hourly_cost": 5.25,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4519.11,
+        "cumulative_cost": 542.29,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 00:00",
+        "hourly_kwh": 40.81,
+        "hourly_cost": 4.9,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4559.92,
+        "cumulative_cost": 547.19,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 01:00",
+        "hourly_kwh": 39.56,
+        "hourly_cost": 4.75,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4599.48,
+        "cumulative_cost": 551.94,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 02:00",
+        "hourly_kwh": 38.11,
+        "hourly_cost": 4.57,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4637.59,
+        "cumulative_cost": 556.51,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 03:00",
+        "hourly_kwh": 48.1,
+        "hourly_cost": 5.77,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4685.69,
+        "cumulative_cost": 562.28,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 04:00",
+        "hourly_kwh": 43.93,
+        "hourly_cost": 5.27,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4729.63,
+        "cumulative_cost": 567.56,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 05:00",
+        "hourly_kwh": 48.11,
+        "hourly_cost": 5.77,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4777.74,
+        "cumulative_cost": 573.33,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 06:00",
+        "hourly_kwh": 111.16,
+        "hourly_cost": 13.34,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 4888.9,
+        "cumulative_cost": 586.67,
+        "cumulative_solar": 1012.77
+    },
+    {
+        "time": "2025-01-03 07:00",
+        "hourly_kwh": 124.47,
+        "hourly_cost": 14.94,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 5013.37,
+        "cumulative_cost": 601.6,
+        "cumulative_solar": 1030.02
+    },
+    {
+        "time": "2025-01-03 08:00",
+        "hourly_kwh": 113.36,
+        "hourly_cost": 13.6,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 5126.72,
+        "cumulative_cost": 615.21,
+        "cumulative_solar": 1063.36
+    },
+    {
+        "time": "2025-01-03 09:00",
+        "hourly_kwh": 114.33,
+        "hourly_cost": 13.72,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 5241.05,
+        "cumulative_cost": 628.93,
+        "cumulative_solar": 1110.5
+    },
+    {
+        "time": "2025-01-03 10:00",
+        "hourly_kwh": 118.07,
+        "hourly_cost": 14.17,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 5359.13,
+        "cumulative_cost": 643.1,
+        "cumulative_solar": 1168.23
+    },
+    {
+        "time": "2025-01-03 11:00",
+        "hourly_kwh": 116.35,
+        "hourly_cost": 13.96,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 5475.47,
+        "cumulative_cost": 657.06,
+        "cumulative_solar": 1232.63
+    },
+    {
+        "time": "2025-01-03 12:00",
+        "hourly_kwh": 117.22,
+        "hourly_cost": 14.07,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 5592.69,
+        "cumulative_cost": 671.12,
+        "cumulative_solar": 1299.29
+    },
+    {
+        "time": "2025-01-03 13:00",
+        "hourly_kwh": 115.68,
+        "hourly_cost": 13.88,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 5708.37,
+        "cumulative_cost": 685.0,
+        "cumulative_solar": 1363.69
+    },
+    {
+        "time": "2025-01-03 14:00",
+        "hourly_kwh": 120.13,
+        "hourly_cost": 14.42,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 5828.5,
+        "cumulative_cost": 699.42,
+        "cumulative_solar": 1421.42
+    },
+    {
+        "time": "2025-01-03 15:00",
+        "hourly_kwh": 123.36,
+        "hourly_cost": 14.8,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 5951.86,
+        "cumulative_cost": 714.22,
+        "cumulative_solar": 1468.56
+    },
+    {
+        "time": "2025-01-03 16:00",
+        "hourly_kwh": 118.48,
+        "hourly_cost": 14.22,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 6070.34,
+        "cumulative_cost": 728.44,
+        "cumulative_solar": 1501.9
+    },
+    {
+        "time": "2025-01-03 17:00",
+        "hourly_kwh": 113.8,
+        "hourly_cost": 13.66,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 6184.14,
+        "cumulative_cost": 742.1,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 18:00",
+        "hourly_kwh": 111.92,
+        "hourly_cost": 13.43,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6296.06,
+        "cumulative_cost": 755.53,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 19:00",
+        "hourly_kwh": 105.84,
+        "hourly_cost": 12.7,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6401.89,
+        "cumulative_cost": 768.23,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 20:00",
+        "hourly_kwh": 116.15,
+        "hourly_cost": 13.94,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6518.04,
+        "cumulative_cost": 782.17,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 21:00",
+        "hourly_kwh": 108.21,
+        "hourly_cost": 12.99,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6626.26,
+        "cumulative_cost": 795.15,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 22:00",
+        "hourly_kwh": 117.14,
+        "hourly_cost": 14.06,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6743.4,
+        "cumulative_cost": 809.21,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-03 23:00",
+        "hourly_kwh": 43.05,
+        "hourly_cost": 5.17,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6786.45,
+        "cumulative_cost": 814.37,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 00:00",
+        "hourly_kwh": 39.8,
+        "hourly_cost": 4.78,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6826.25,
+        "cumulative_cost": 819.15,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 01:00",
+        "hourly_kwh": 41.6,
+        "hourly_cost": 4.99,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6867.86,
+        "cumulative_cost": 824.14,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 02:00",
+        "hourly_kwh": 45.73,
+        "hourly_cost": 5.49,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6913.58,
+        "cumulative_cost": 829.63,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 03:00",
+        "hourly_kwh": 47.62,
+        "hourly_cost": 5.71,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 6961.2,
+        "cumulative_cost": 835.34,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 04:00",
+        "hourly_kwh": 44.01,
+        "hourly_cost": 5.28,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7005.22,
+        "cumulative_cost": 840.63,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 05:00",
+        "hourly_kwh": 49.29,
+        "hourly_cost": 5.92,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7054.51,
+        "cumulative_cost": 846.54,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 06:00",
+        "hourly_kwh": 46.89,
+        "hourly_cost": 5.63,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7101.41,
+        "cumulative_cost": 852.17,
+        "cumulative_solar": 1519.15
+    },
+    {
+        "time": "2025-01-04 07:00",
+        "hourly_kwh": 47.66,
+        "hourly_cost": 5.72,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 7149.07,
+        "cumulative_cost": 857.89,
+        "cumulative_solar": 1536.41
+    },
+    {
+        "time": "2025-01-04 08:00",
+        "hourly_kwh": 44.71,
+        "hourly_cost": 5.37,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 7193.78,
+        "cumulative_cost": 863.25,
+        "cumulative_solar": 1569.74
+    },
+    {
+        "time": "2025-01-04 09:00",
+        "hourly_kwh": 50.67,
+        "hourly_cost": 6.08,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 7244.45,
+        "cumulative_cost": 869.33,
+        "cumulative_solar": 1616.88
+    },
+    {
+        "time": "2025-01-04 10:00",
+        "hourly_kwh": 55.62,
+        "hourly_cost": 6.67,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 7300.07,
+        "cumulative_cost": 876.01,
+        "cumulative_solar": 1674.61
+    },
+    {
+        "time": "2025-01-04 11:00",
+        "hourly_kwh": 43.31,
+        "hourly_cost": 5.2,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 7343.38,
+        "cumulative_cost": 881.21,
+        "cumulative_solar": 1739.01
+    },
+    {
+        "time": "2025-01-04 12:00",
+        "hourly_kwh": 51.17,
+        "hourly_cost": 6.14,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 7394.55,
+        "cumulative_cost": 887.35,
+        "cumulative_solar": 1805.68
+    },
+    {
+        "time": "2025-01-04 13:00",
+        "hourly_kwh": 45.48,
+        "hourly_cost": 5.46,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 7440.03,
+        "cumulative_cost": 892.8,
+        "cumulative_solar": 1870.07
+    },
+    {
+        "time": "2025-01-04 14:00",
+        "hourly_kwh": 48.15,
+        "hourly_cost": 5.78,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 7488.18,
+        "cumulative_cost": 898.58,
+        "cumulative_solar": 1927.81
+    },
+    {
+        "time": "2025-01-04 15:00",
+        "hourly_kwh": 47.84,
+        "hourly_cost": 5.74,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 7536.01,
+        "cumulative_cost": 904.32,
+        "cumulative_solar": 1974.95
+    },
+    {
+        "time": "2025-01-04 16:00",
+        "hourly_kwh": 48.95,
+        "hourly_cost": 5.87,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 7584.96,
+        "cumulative_cost": 910.2,
+        "cumulative_solar": 2008.28
+    },
+    {
+        "time": "2025-01-04 17:00",
+        "hourly_kwh": 44.41,
+        "hourly_cost": 5.33,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 7629.37,
+        "cumulative_cost": 915.52,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 18:00",
+        "hourly_kwh": 45.17,
+        "hourly_cost": 5.42,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7674.54,
+        "cumulative_cost": 920.94,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 19:00",
+        "hourly_kwh": 49.13,
+        "hourly_cost": 5.9,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7723.67,
+        "cumulative_cost": 926.84,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 20:00",
+        "hourly_kwh": 45.09,
+        "hourly_cost": 5.41,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7768.76,
+        "cumulative_cost": 932.25,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 21:00",
+        "hourly_kwh": 47.27,
+        "hourly_cost": 5.67,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7816.03,
+        "cumulative_cost": 937.92,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 22:00",
+        "hourly_kwh": 47.59,
+        "hourly_cost": 5.71,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7863.61,
+        "cumulative_cost": 943.63,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-04 23:00",
+        "hourly_kwh": 39.03,
+        "hourly_cost": 4.68,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7902.65,
+        "cumulative_cost": 948.32,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 00:00",
+        "hourly_kwh": 44.59,
+        "hourly_cost": 5.35,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7947.24,
+        "cumulative_cost": 953.67,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 01:00",
+        "hourly_kwh": 40.53,
+        "hourly_cost": 4.86,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 7987.77,
+        "cumulative_cost": 958.53,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 02:00",
+        "hourly_kwh": 44.68,
+        "hourly_cost": 5.36,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8032.45,
+        "cumulative_cost": 963.89,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 03:00",
+        "hourly_kwh": 49.26,
+        "hourly_cost": 5.91,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8081.71,
+        "cumulative_cost": 969.8,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 04:00",
+        "hourly_kwh": 51.91,
+        "hourly_cost": 6.23,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8133.62,
+        "cumulative_cost": 976.03,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 05:00",
+        "hourly_kwh": 48.53,
+        "hourly_cost": 5.82,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8182.15,
+        "cumulative_cost": 981.86,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 06:00",
+        "hourly_kwh": 47.96,
+        "hourly_cost": 5.75,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8230.11,
+        "cumulative_cost": 987.61,
+        "cumulative_solar": 2025.53
+    },
+    {
+        "time": "2025-01-05 07:00",
+        "hourly_kwh": 46.13,
+        "hourly_cost": 5.54,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 8276.23,
+        "cumulative_cost": 993.15,
+        "cumulative_solar": 2042.79
+    },
+    {
+        "time": "2025-01-05 08:00",
+        "hourly_kwh": 47.82,
+        "hourly_cost": 5.74,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 8324.05,
+        "cumulative_cost": 998.89,
+        "cumulative_solar": 2076.12
+    },
+    {
+        "time": "2025-01-05 09:00",
+        "hourly_kwh": 43.48,
+        "hourly_cost": 5.22,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 8367.53,
+        "cumulative_cost": 1004.1,
+        "cumulative_solar": 2123.26
+    },
+    {
+        "time": "2025-01-05 10:00",
+        "hourly_kwh": 51.67,
+        "hourly_cost": 6.2,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 8419.2,
+        "cumulative_cost": 1010.3,
+        "cumulative_solar": 2181.0
+    },
+    {
+        "time": "2025-01-05 11:00",
+        "hourly_kwh": 48.86,
+        "hourly_cost": 5.86,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 8468.06,
+        "cumulative_cost": 1016.17,
+        "cumulative_solar": 2245.39
+    },
+    {
+        "time": "2025-01-05 12:00",
+        "hourly_kwh": 43.62,
+        "hourly_cost": 5.23,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 8511.68,
+        "cumulative_cost": 1021.4,
+        "cumulative_solar": 2312.06
+    },
+    {
+        "time": "2025-01-05 13:00",
+        "hourly_kwh": 53.62,
+        "hourly_cost": 6.43,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 8565.3,
+        "cumulative_cost": 1027.84,
+        "cumulative_solar": 2376.45
+    },
+    {
+        "time": "2025-01-05 14:00",
+        "hourly_kwh": 42.45,
+        "hourly_cost": 5.09,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 8607.75,
+        "cumulative_cost": 1032.93,
+        "cumulative_solar": 2434.19
+    },
+    {
+        "time": "2025-01-05 15:00",
+        "hourly_kwh": 46.15,
+        "hourly_cost": 5.54,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 8653.9,
+        "cumulative_cost": 1038.47,
+        "cumulative_solar": 2481.33
+    },
+    {
+        "time": "2025-01-05 16:00",
+        "hourly_kwh": 36.52,
+        "hourly_cost": 4.38,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 8690.42,
+        "cumulative_cost": 1042.85,
+        "cumulative_solar": 2514.66
+    },
+    {
+        "time": "2025-01-05 17:00",
+        "hourly_kwh": 45.96,
+        "hourly_cost": 5.52,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 8736.38,
+        "cumulative_cost": 1048.37,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 18:00",
+        "hourly_kwh": 45.52,
+        "hourly_cost": 5.46,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8781.9,
+        "cumulative_cost": 1053.83,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 19:00",
+        "hourly_kwh": 43.47,
+        "hourly_cost": 5.22,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8825.36,
+        "cumulative_cost": 1059.04,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 20:00",
+        "hourly_kwh": 41.79,
+        "hourly_cost": 5.02,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8867.15,
+        "cumulative_cost": 1064.06,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 21:00",
+        "hourly_kwh": 47.5,
+        "hourly_cost": 5.7,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8914.65,
+        "cumulative_cost": 1069.76,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 22:00",
+        "hourly_kwh": 49.1,
+        "hourly_cost": 5.89,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 8963.75,
+        "cumulative_cost": 1075.65,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-05 23:00",
+        "hourly_kwh": 40.3,
+        "hourly_cost": 4.84,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9004.06,
+        "cumulative_cost": 1080.49,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 00:00",
+        "hourly_kwh": 41.03,
+        "hourly_cost": 4.92,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9045.08,
+        "cumulative_cost": 1085.41,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 01:00",
+        "hourly_kwh": 38.82,
+        "hourly_cost": 4.66,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9083.91,
+        "cumulative_cost": 1090.07,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 02:00",
+        "hourly_kwh": 47.74,
+        "hourly_cost": 5.73,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9131.64,
+        "cumulative_cost": 1095.8,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 03:00",
+        "hourly_kwh": 44.3,
+        "hourly_cost": 5.32,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9175.94,
+        "cumulative_cost": 1101.11,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 04:00",
+        "hourly_kwh": 40.75,
+        "hourly_cost": 4.89,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9216.69,
+        "cumulative_cost": 1106.0,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 05:00",
+        "hourly_kwh": 44.07,
+        "hourly_cost": 5.29,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9260.76,
+        "cumulative_cost": 1111.29,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 06:00",
+        "hourly_kwh": 113.83,
+        "hourly_cost": 13.66,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 9374.59,
+        "cumulative_cost": 1124.95,
+        "cumulative_solar": 2531.92
+    },
+    {
+        "time": "2025-01-06 07:00",
+        "hourly_kwh": 110.5,
+        "hourly_cost": 13.26,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 9485.08,
+        "cumulative_cost": 1138.21,
+        "cumulative_solar": 2549.17
+    },
+    {
+        "time": "2025-01-06 08:00",
+        "hourly_kwh": 111.95,
+        "hourly_cost": 13.43,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 9597.03,
+        "cumulative_cost": 1151.64,
+        "cumulative_solar": 2582.51
+    },
+    {
+        "time": "2025-01-06 09:00",
+        "hourly_kwh": 117.98,
+        "hourly_cost": 14.16,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 9715.01,
+        "cumulative_cost": 1165.8,
+        "cumulative_solar": 2629.65
+    },
+    {
+        "time": "2025-01-06 10:00",
+        "hourly_kwh": 119.95,
+        "hourly_cost": 14.39,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 9834.96,
+        "cumulative_cost": 1180.2,
+        "cumulative_solar": 2687.38
+    },
+    {
+        "time": "2025-01-06 11:00",
+        "hourly_kwh": 124.52,
+        "hourly_cost": 14.94,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 9959.49,
+        "cumulative_cost": 1195.14,
+        "cumulative_solar": 2751.78
+    },
+    {
+        "time": "2025-01-06 12:00",
+        "hourly_kwh": 113.66,
+        "hourly_cost": 13.64,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 10073.15,
+        "cumulative_cost": 1208.78,
+        "cumulative_solar": 2818.44
+    },
+    {
+        "time": "2025-01-06 13:00",
+        "hourly_kwh": 115.66,
+        "hourly_cost": 13.88,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 10188.81,
+        "cumulative_cost": 1222.66,
+        "cumulative_solar": 2882.84
+    },
+    {
+        "time": "2025-01-06 14:00",
+        "hourly_kwh": 121.55,
+        "hourly_cost": 14.59,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 10310.36,
+        "cumulative_cost": 1237.24,
+        "cumulative_solar": 2940.57
+    },
+    {
+        "time": "2025-01-06 15:00",
+        "hourly_kwh": 111.91,
+        "hourly_cost": 13.43,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 10422.27,
+        "cumulative_cost": 1250.67,
+        "cumulative_solar": 2987.71
+    },
+    {
+        "time": "2025-01-06 16:00",
+        "hourly_kwh": 108.71,
+        "hourly_cost": 13.05,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 10530.98,
+        "cumulative_cost": 1263.72,
+        "cumulative_solar": 3021.05
+    },
+    {
+        "time": "2025-01-06 17:00",
+        "hourly_kwh": 114.9,
+        "hourly_cost": 13.79,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 10645.88,
+        "cumulative_cost": 1277.51,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 18:00",
+        "hourly_kwh": 116.1,
+        "hourly_cost": 13.93,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 10761.99,
+        "cumulative_cost": 1291.44,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 19:00",
+        "hourly_kwh": 112.14,
+        "hourly_cost": 13.46,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 10874.13,
+        "cumulative_cost": 1304.9,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 20:00",
+        "hourly_kwh": 110.67,
+        "hourly_cost": 13.28,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 10984.8,
+        "cumulative_cost": 1318.18,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 21:00",
+        "hourly_kwh": 110.69,
+        "hourly_cost": 13.28,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11095.48,
+        "cumulative_cost": 1331.46,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 22:00",
+        "hourly_kwh": 109.64,
+        "hourly_cost": 13.16,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11205.13,
+        "cumulative_cost": 1344.62,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-06 23:00",
+        "hourly_kwh": 39.68,
+        "hourly_cost": 4.76,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11244.8,
+        "cumulative_cost": 1349.38,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 00:00",
+        "hourly_kwh": 45.88,
+        "hourly_cost": 5.51,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11290.69,
+        "cumulative_cost": 1354.88,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 01:00",
+        "hourly_kwh": 44.49,
+        "hourly_cost": 5.34,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11335.17,
+        "cumulative_cost": 1360.22,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 02:00",
+        "hourly_kwh": 39.99,
+        "hourly_cost": 4.8,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11375.16,
+        "cumulative_cost": 1365.02,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 03:00",
+        "hourly_kwh": 45.4,
+        "hourly_cost": 5.45,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11420.56,
+        "cumulative_cost": 1370.47,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 04:00",
+        "hourly_kwh": 50.42,
+        "hourly_cost": 6.05,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11470.99,
+        "cumulative_cost": 1376.52,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 05:00",
+        "hourly_kwh": 47.13,
+        "hourly_cost": 5.66,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11518.12,
+        "cumulative_cost": 1382.17,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 06:00",
+        "hourly_kwh": 115.38,
+        "hourly_cost": 13.85,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 11633.5,
+        "cumulative_cost": 1396.02,
+        "cumulative_solar": 3038.3
+    },
+    {
+        "time": "2025-01-07 07:00",
+        "hourly_kwh": 112.79,
+        "hourly_cost": 13.53,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 11746.28,
+        "cumulative_cost": 1409.55,
+        "cumulative_solar": 3055.56
+    },
+    {
+        "time": "2025-01-07 08:00",
+        "hourly_kwh": 114.46,
+        "hourly_cost": 13.74,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 11860.74,
+        "cumulative_cost": 1423.29,
+        "cumulative_solar": 3088.89
+    },
+    {
+        "time": "2025-01-07 09:00",
+        "hourly_kwh": 117.28,
+        "hourly_cost": 14.07,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 11978.02,
+        "cumulative_cost": 1437.36,
+        "cumulative_solar": 3136.03
+    },
+    {
+        "time": "2025-01-07 10:00",
+        "hourly_kwh": 115.21,
+        "hourly_cost": 13.83,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 12093.24,
+        "cumulative_cost": 1451.19,
+        "cumulative_solar": 3193.77
+    },
+    {
+        "time": "2025-01-07 11:00",
+        "hourly_kwh": 119.1,
+        "hourly_cost": 14.29,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 12212.33,
+        "cumulative_cost": 1465.48,
+        "cumulative_solar": 3258.16
+    },
+    {
+        "time": "2025-01-07 12:00",
+        "hourly_kwh": 118.26,
+        "hourly_cost": 14.19,
+        "hourly_solar": 66.67,
+        "cumulative_kwh": 12330.59,
+        "cumulative_cost": 1479.67,
+        "cumulative_solar": 3324.83
+    },
+    {
+        "time": "2025-01-07 13:00",
+        "hourly_kwh": 120.25,
+        "hourly_cost": 14.43,
+        "hourly_solar": 64.4,
+        "cumulative_kwh": 12450.84,
+        "cumulative_cost": 1494.1,
+        "cumulative_solar": 3389.22
+    },
+    {
+        "time": "2025-01-07 14:00",
+        "hourly_kwh": 103.52,
+        "hourly_cost": 12.42,
+        "hourly_solar": 57.74,
+        "cumulative_kwh": 12554.35,
+        "cumulative_cost": 1506.52,
+        "cumulative_solar": 3446.96
+    },
+    {
+        "time": "2025-01-07 15:00",
+        "hourly_kwh": 119.04,
+        "hourly_cost": 14.28,
+        "hourly_solar": 47.14,
+        "cumulative_kwh": 12673.39,
+        "cumulative_cost": 1520.81,
+        "cumulative_solar": 3494.1
+    },
+    {
+        "time": "2025-01-07 16:00",
+        "hourly_kwh": 113.76,
+        "hourly_cost": 13.65,
+        "hourly_solar": 33.33,
+        "cumulative_kwh": 12787.16,
+        "cumulative_cost": 1534.46,
+        "cumulative_solar": 3527.43
+    },
+    {
+        "time": "2025-01-07 17:00",
+        "hourly_kwh": 117.14,
+        "hourly_cost": 14.06,
+        "hourly_solar": 17.25,
+        "cumulative_kwh": 12904.3,
+        "cumulative_cost": 1548.52,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 18:00",
+        "hourly_kwh": 113.53,
+        "hourly_cost": 13.62,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13017.83,
+        "cumulative_cost": 1562.14,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 19:00",
+        "hourly_kwh": 116.06,
+        "hourly_cost": 13.93,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13133.88,
+        "cumulative_cost": 1576.07,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 20:00",
+        "hourly_kwh": 113.08,
+        "hourly_cost": 13.57,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13246.96,
+        "cumulative_cost": 1589.64,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 21:00",
+        "hourly_kwh": 104.7,
+        "hourly_cost": 12.56,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13351.66,
+        "cumulative_cost": 1602.2,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 22:00",
+        "hourly_kwh": 112.06,
+        "hourly_cost": 13.45,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13463.72,
+        "cumulative_cost": 1615.65,
+        "cumulative_solar": 3544.69
+    },
+    {
+        "time": "2025-01-07 23:00",
+        "hourly_kwh": 48.58,
+        "hourly_cost": 5.83,
+        "hourly_solar": 0.0,
+        "cumulative_kwh": 13512.3,
+        "cumulative_cost": 1621.48,
+        "cumulative_solar": 3544.69
+    }
+]

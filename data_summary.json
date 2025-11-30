@@ -1,0 +1,8 @@
+{
+  "total_records": 8760,
+  "date_range": "2024-01-01 00:00:00 to 2024-12-30 23:00:00",
+  "avg_hourly_consumption": "812.92 kWh",
+  "peak_consumption": "1378.12 kWh",
+  "total_cost": "$865,311.51",
+  "anomalies_detected": 34
+}

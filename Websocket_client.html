@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>real time data acquisition from the server</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #f4f7f6; padding: 20px; }
+        .header { background: #1a237e; color: white; padding: 20px; border-radius: 8px; text-align: center; margin-bottom: 20px;}
+        .card-container { display: flex; gap: 20px; margin-bottom: 20px; }
+        .card { flex: 1; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; border-left: 5px solid #1a237e;}
+        .card h3 { margin: 0 0 10px 0; color: #666; font-size: 14px; text-transform: uppercase; }
+        .card p { font-size: 32px; font-weight: bold; margin: 0; color: #1a237e; }
+        /* Alarm Styling */
+        .alarm { background-color: #ffebee; border-left-color: red; animation: flash 1s infinite; }
+        @keyframes flash { 0% {opacity: 1;} 50% {opacity: 0.5;} 100% {opacity: 1;} }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Real Time Data Acquisition From The Server</h1>
+        <div id="status">Waiting for Python...</div>
+    </div>
+    
+    <div class="card-container">
+        <div class="card"><h3>Current Load</h3><p id="load">0 kW</p></div>
+        <div class="card" id="risk-card"><h3>High Risk Assets</h3><p id="risk">0</p></div>
+        <div class="card"><h3>Active Assets</h3><p id="active">0</p></div>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+        <div id="chart" style="height: 400px;"></div>
+    </div>
+
+    <script>
+        // Setup Chart
+        Plotly.newPlot('chart', [{ y: [], type: 'line', line: {color: '#1a237e', width: 3} }], { 
+            title: 'Real-Time Consumption', margin: {t: 30, l: 50, r: 20, b: 40} 
+        });
+
+        // 2. Connect to Python WebSocket Server
+        const ws = new WebSocket('ws://localhost:8765');
+        
+        ws.onopen = () => document.getElementById('status').innerText = "✓ Connected ";
+        ws.onclose = () => {
+            document.getElementById('status').innerText = "⚠ Disconnected";
+            // You can add a reconnect logic here if needed
+        };
+        
+        ws.onmessage = (e) => {
+            const data = JSON.parse(e.data);
+            let total = 0, risk = 0, active = 0;
+            
+            // 3. Process Incoming Data
+            for(const [k, v] of Object.entries(data)) {
+                total += v.consumption_kwh;
+                if(v.state !== 'OFF') active++;
+                if(v.state === 'HIGH_CONSUMPTION' || v.state === 'FAIL') risk++;
+            }
+
+            // 4. Update KPIs (DOM elements)
+            document.getElementById('load').innerText = total.toFixed(1) + ' kW';
+            document.getElementById('risk').innerText = risk;
+            document.getElementById('active').innerText = active;
+
+            // Apply Risk Alarm animation
+            const riskCard = document.getElementById('risk-card');
+            if(risk > 0) riskCard.classList.add('alarm');
+            else riskCard.classList.remove('alarm');
+
+            // 5. Update Chart (Plotly)
+            Plotly.extendTraces('chart', { y: [[total]] }, [0]);
+            
+            // Scroll chart view window to show only the last 50 points
+            const graphDiv = document.getElementById('chart');
+            if(graphDiv.data[0].y.length > 50) {
+                 Plotly.relayout('chart', { xaxis: { range: [graphDiv.data[0].y.length-50, graphDiv.data[0].y.length] }});
+            }
+        };
+    </script>
+</body>
+</html>
